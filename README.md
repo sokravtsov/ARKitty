@@ -2,7 +2,7 @@
 
 Unity + ARKit = 💗
 
-![cat](.gifs/cat.gif)
+![cat](.Gifs/kitty.gif)
 
-![car](.gifs/car.gif)
+![car](.Gifs/car.gif)
 
